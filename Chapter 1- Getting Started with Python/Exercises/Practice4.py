@@ -2,4 +2,4 @@
 b = int (input ("Enter base: "))
 h = int (input("Enter height: "))
 area = float (b*h/2)
-print (area)
+print ("Area: ", area)
