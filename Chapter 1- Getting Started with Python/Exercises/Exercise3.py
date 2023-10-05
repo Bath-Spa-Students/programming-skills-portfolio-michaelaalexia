@@ -1,3 +1,3 @@
-import datetime 
-d= datetime,datetime (24, 11, 2023)
-print (d)
+from datetime import date, time, datetime
+today = datetime.now()
+print (today)
