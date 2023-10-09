@@ -3,4 +3,5 @@ firstname = "Michaela"
 secondname = "Alexia"
 middlename = "Salisi"
 lastname = "Cruz"
-print (firstname, secondname, middlename, lastname)
+name = firstname + secondname + middlename + lastname
+print (name)
