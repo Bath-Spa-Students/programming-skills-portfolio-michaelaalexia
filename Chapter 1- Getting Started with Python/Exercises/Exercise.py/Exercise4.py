@@ -1,4 +1,5 @@
-name = "Michaela"
+firstname = "Michaela"
 middlename = "Alexia"
 lastname = "Cruz"
-print (name, middlename, lastname)
+name = firstname + middlename + lastname
+print (name)
