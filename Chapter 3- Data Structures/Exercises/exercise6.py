@@ -15,7 +15,6 @@ print ("Hey everyone! Unfortunately considering the place and time, only two peo
 invitees.pop()
 invitees.pop()
 invitees.pop()
-print (invitees)
 print ("Hey VenVen! I'm afraid there won't be space in my place for dinner this week...don't worry though! We can arrange something next week.")
 print ("Hey DanDan! I'm afraid there won't be space in my place for dinner this week...don't worry though! We can arrange something next week.")
 print ("Hey YanYan! I'm afraid there won't be space in my place for dinner this week...don't worry though! We can arrange something next week.")
