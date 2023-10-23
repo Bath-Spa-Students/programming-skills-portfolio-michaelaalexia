@@ -11,10 +11,15 @@
 #Use sort() to change your list so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
 places = ["Japan", "South Korea", "Paris", "London", "Idaho"]
 print (places)
-places.sorted()
+sorted(places)
 print (places)
 sorted(places)
 print(places)
 places.reverse()
 print(places)
 places.reverse()
+print(places)
+places.sort()
+print(places)
+places.reverse()
+print(places)
