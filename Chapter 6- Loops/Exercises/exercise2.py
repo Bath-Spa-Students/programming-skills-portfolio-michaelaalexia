@@ -12,4 +12,4 @@ while ticket != 0:
     elif ticket >= 3 or ticket <= 12:
         print("It's $10")
     ticket = int(input("Age: "))
-print ("Okay, thanks!")
+print ("Okay, thank you!")
