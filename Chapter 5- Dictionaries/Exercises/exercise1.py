@@ -5,7 +5,4 @@ person = {'first name' : 'Jessica',
           'last name' : 'Cruz',
           'age' : '9',
           'address' : 'Al Nahda'}
-print (person)
-print (person.items())
-print (person.keys())
 print (person.values())
